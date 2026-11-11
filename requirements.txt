@@ -1,0 +1,8 @@
+
+pymupdf
+sentence-transformers
+chromadb
+openai
+python-dotenv
+streamlit
+rank-bm25
